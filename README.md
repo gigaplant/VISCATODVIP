@@ -1,4 +1,4 @@
-# VISCATODVIP
+# VISCA TO DVIP
 
 This Python script is used to listen on the localhost on UDP port 1259, amend the data packet to match the DVIP protocol and forward onto a Datavideo PTZ Camera.
 
